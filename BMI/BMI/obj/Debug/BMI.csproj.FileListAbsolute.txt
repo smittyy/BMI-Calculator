@@ -1,0 +1,15 @@
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\bin\Debug\BMI.exe.config
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\MainWindow.g.cs
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\App.g.cs
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\BMI_MarkupCompile.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\BMI_MarkupCompile.lref
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\MainWindow.baml
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\BMI.g.resources
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\Smith_Conner\Desktop\WPF Stuff\BMI Calcula\BMI\BMI\obj\Debug\BMI.pdb
