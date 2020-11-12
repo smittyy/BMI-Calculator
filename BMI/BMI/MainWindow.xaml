@@ -34,7 +34,7 @@
             <Label Grid.Row="3" Grid.Column="1" Content="Phone #:" FontSize="16"/>
             <Label Grid.Row="4" Grid.Column="1" Content="Height Inches:" FontSize="16"/>
             <Label Grid.Row="5" Grid.Column="1" Content="Weight Lbs:" FontSize="16"/>
-            <Label Grid.Row="1" Grid.Column="4" Content="Your BMI Is" FontSize="16"/>
+            <Label FontWeight="Bold" Grid.Row="1" Grid.Column="4" Content="Your BMI Is" FontSize="16"/>
 
             <!--Enter The name here-->
             <TextBox x:Name="xFirstNameBox" Grid.Row="1" Grid.Column="2" Text="" FontSize="14" Height="25"/>
@@ -46,13 +46,11 @@
             <TextBox x:Name="xHeightInchesBox" Grid.Row="4" Grid.Column="2" Text="" FontSize="14" Height="25"/>
             <!--Enter Weight in Pounds-->
             <TextBox x:Name="xWeightLbsBox" Grid.Row="5" Grid.Column="2" Text="" FontSize="14" Height="25"/>
-            <!--Out puts the BMI of the player-->
-            <TextBox Grid.Row="1" Grid.Column="5" Grid.ColumnSpan="2" Text=""/>
             
             <!--The Submit button-->
-            <Button Grid.Column="1" Grid.Row="6" Content="Submit" Height="20" Width="80" HorizontalAlignment="Left"/>
+            <Button x:Name="SubmitButton" Grid.Column="1" Grid.Row="6" Content="Submit" Height="20" Width="80" HorizontalAlignment="Left" Click="SubmitButton_Click"/>
             <!--The Clear Button to reset-->
-            <Button Grid.Column="2" Grid.Row="6" Content="Clear" Height="20" Width="80" HorizontalAlignment="Left" Click="Button_Click"/>
+            <Button Grid.Column="2" Grid.Row="6" Content="Clear" Height="20" Width="80" HorizontalAlignment="Left" Click="ClearBTN_Click"/>
             <!--Import Button-->
             <Button Grid.Column="4" Grid.Row="6" Content="Import" Height="20" Width="80" HorizontalAlignment="Left"/>
             <!--Exit Btn-->
